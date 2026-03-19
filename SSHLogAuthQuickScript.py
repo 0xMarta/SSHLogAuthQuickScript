@@ -37,4 +37,3 @@ def app():
         print("RUN IT AS A ROOT")
 if __name__ == "__main__":
     app()
-    app()
